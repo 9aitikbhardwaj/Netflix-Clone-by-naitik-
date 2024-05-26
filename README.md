@@ -46,3 +46,4 @@ Contributions to enhance the Netflix India clone are welcome! If you'd like to c
 5. Create a new Pull Request.
 
 ## Deployed Link 
+https://netflix-clone-by-naitik.vercel.app/
